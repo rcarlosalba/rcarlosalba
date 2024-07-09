@@ -8,7 +8,7 @@ Here, we speak: Espanglish
 - 🔭 I’m currently working on build a portfolio. 😉
 - 🔭 Actualmente trabajo en crear un portafolio 😉
 - 🌱 I’m currently learning JavaScript, VueJS, Python, Flask and Django. I'm improving my English and I'm learning French.
-- 🌱 Estoy aprendiendo JavaScript, VueJS, Python, Flask and Django. Estoy mejorando mi inglés y estoy aprendiendo Francés.
+- 🌱 Estoy aprendiendo Python, Django, JavaScript y VueJS . Estoy mejorando mi inglés y estoy aprendiendo Francés.
 - 👯 I’m looking to collaborate on a creative, exciting and challenging company.
 - 👯 Estoy buscando colaborar con una empresa creativa, emocionante y desafiante. 
 - 🤔 I’m looking for ideas with be more productive
